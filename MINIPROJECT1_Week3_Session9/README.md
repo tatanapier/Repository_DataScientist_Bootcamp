@@ -1,4 +1,4 @@
-# MINI PROYJECT 1 | WEEK 3 | SESSION 9
+# MINI PROJECT 1 | WEEK 3 | SESSION 9
 
 # Mini Project | Vikingos (Vikings)
 
